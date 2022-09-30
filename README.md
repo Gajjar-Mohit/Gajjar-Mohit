@@ -9,8 +9,8 @@ An Indian who is pursuing Computer Science and Engineering. Hustling and Explori
 * 🌍  I'm based in Gujarat, India
 * 🖥️  See my portfolio at [It's DebugNtity](http://mohitgajjar.rocks/)
 * ✉️  You can contact me at [gajjarmohit501@gmail.com](mailto:gajjarmohit501@gmail.com)
-* 🧠  I'm learning Web3 and Metaverse
-* 🤝  I'm open to collaborating on Web3, Android, Metaverse related projects.
+* 🧠  I'm learning Web3, Metaverse and opensource.
+* 🤝  I'm open to collaborating on Open-Source Web3, Android, Metaverse related projects.
 
 ### Skills
 
