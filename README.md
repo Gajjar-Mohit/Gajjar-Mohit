@@ -7,7 +7,7 @@ Flutter and Blockchain App Developer.
 An Indian who is pursuing Computer Science and Engineering. Hustling and Exploring the Tech-World.
 
 * 🌍  I'm based in Gujarat, India
-* 🖥️  See my portfolio at [It's DebugNtity](http://mohitgajjar.rocks/)
+* 🖥️  See my portfolio at [It's MG](https://itsmg.me/#/)
 * 🖥  See my personal account at [Mohit-Gajjar](https://github.com/Mohit-Gajjar)
 * ✉️  You can contact me at [gajjarmohit501@gmail.com](mailto:gajjarmohit501@gmail.com)
 * 🧠  I'm learning Web3, Metaverse and opensource.
