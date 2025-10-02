@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">My self Mohit Gajjar, a self taught full stack engineer, nice to meet you!!</p>
+<p align="center">My self Mohit Gajjar, a self taught Backend & Systems engineer, nice to meet you!!</p>
 
 ###
 
